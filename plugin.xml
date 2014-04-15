@@ -3,9 +3,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="org.chromium.zip"
     version="1.0.0">
-  <engines>
-    <engine name="cordova" version=">=3.0.0" />
-  </engines>
 
   <name>Zip</name>
 
