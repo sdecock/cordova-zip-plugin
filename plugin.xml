@@ -3,8 +3,14 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="org.chromium.zip"
     version="1.0.0">
-
+    
+  <engines>
+    <engine name="cordova" version=">=3.0.0" />
+  </engines>
+  
   <name>Zip</name>
+
+  <description>Zip plugin for ContentSync</description>
 
   <js-module src="zip.js" name="Zip">
     <clobbers target="zip" />
