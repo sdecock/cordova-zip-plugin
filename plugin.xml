@@ -12,7 +12,7 @@
 
   <description>Zip plugin for ContentSync</description>
 
-  <license>Apache 2.0 License</license>
+  <license>Apache 2.0</license>
 
   <js-module src="zip.js" name="Zip">
     <clobbers target="zip" />
